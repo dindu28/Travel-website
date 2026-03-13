@@ -1,5 +1,5 @@
 # Travel-website
-**TripSphere** is a responsive travel website designed to inspire and simplify travel planning. It offers curated destinations, guided journeys, personalized itineraries, and a smooth booking experience to help travelers explore the world effortlessly.
+**TripSphere** is a responsive travel website designed to inspire and simplify travel planning. It offers curated destinations, guided journeys, and a smooth browsing experience to help travelers explore the world effortlessly.
 
 ---
 
